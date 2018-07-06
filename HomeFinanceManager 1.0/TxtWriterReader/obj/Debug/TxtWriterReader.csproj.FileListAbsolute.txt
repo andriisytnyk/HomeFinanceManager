@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\obj\Debug\TxtWriterReader.pdb

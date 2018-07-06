@@ -1,0 +1,112 @@
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe.config
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\HomeFinanceManager.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\log4net.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\log4net.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\XmlWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormLog.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormMain.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormReg.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.exe
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Web.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Data.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\bin\Debug\MySql.Web.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe.config
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.exe
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormLog.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormMain.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormReg.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.xml
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.pdb
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe.config
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.exe
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.pdb
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.pdb
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.dll
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.xml
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.pdb
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.pdb
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojResolveAssemblyReference.cache
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormLog.resources
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormMain.resources
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormReg.resources
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.Properties.Resources.resources
+D:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.GenerateResource.Cache
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe.config
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.exe
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.pdb
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.exe
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\HomeFinanceManager.pdb
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.dll
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\EntityFramework.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\log4net.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF5.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\MySql.Web.xml
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\TxtWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\bin\Debug\XmlWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csprojResolveAssemblyReference.cache
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormLog.resources
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormMain.resources
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.FormReg.resources
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.Properties.Resources.resources
+E:\Alexandr\HomeFinanceManager 1.0\HomeFinanceManager\obj\Debug\HomeFinanceManager.csproj.GenerateResource.Cache

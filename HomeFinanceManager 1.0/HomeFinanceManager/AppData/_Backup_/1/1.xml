@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<ArrayOfGood xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-21T17:36:40.1874837+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-21T17:36:53.6072512+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-21T17:36:53.6092514+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-21T17:36:53.6102514+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T00:01:30.05704+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T00:11:42.7860861+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T00:13:18.7785766+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>56.78</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-02-22T00:15:26.1218602+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-02-22T00:15:26.1218602+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T00:20:50.000385+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:53:24.5622975+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:53:24.5632976+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:53:24.5632976+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:53:24.5642976+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:55:08.4842415+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:55:08.4852416+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:55:08.4852416+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:56:41.3235516+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:56:41.3245517+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-22T23:56:41.3255517+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Makarony</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-23T00:01:22.1806157+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Soska</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-23T00:01:22.1826158+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Sosiski</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-23T00:01:22.1826158+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Vermeshel'</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-23T00:01:22.1826158+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Mak</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-23T00:01:22.1826158+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1.23</Price>
+    <Count>2.134</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-24T23:07:00.5914569+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1.23</Price>
+    <Count>4</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-24T23:07:10.6900345+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1.23</Price>
+    <Count>3.702</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T00:58:12.3190579+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>8.36</Price>
+    <Count>1.452</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T00:59:32.5516469+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>12.34</Price>
+    <Count>2.468</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T01:03:35.486542+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T19:53:06.7539378+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T19:53:13.6023295+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T19:53:29.2312235+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T19:53:39.9018338+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1.25</Price>
+    <Count>5</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T23:34:58.007298+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1.23</Price>
+    <Count>3.457</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T23:34:58.008298+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1.25</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T23:35:33.7583428+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1.23</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-25T23:35:33.7593429+02:00</Time>
+  </Good>
+  <Good>
+    <Name>7</Name>
+    <Price>50</Price>
+    <Count>7</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-02-28T22:43:16.9134874+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-01T23:55:36.3448472+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-02T00:03:18.3162704+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>3</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-02T00:21:05.4083046+02:00</Time>
+  </Good>
+  <Good>
+    <Name>4</Name>
+    <Price>4</Price>
+    <Count>10</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-02T00:21:23.9593656+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Креветки</Name>
+    <Price>105</Price>
+    <Count>0.345</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-02T10:47:15.0920602+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-04T13:02:14.5780736+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-04T13:02:36.7223402+02:00</Time>
+  </Good>
+  <Good>
+    <Name>6</Name>
+    <Price>6</Price>
+    <Count>6</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-04T14:02:22.3654273+02:00</Time>
+  </Good>
+  <Good>
+    <Name>7</Name>
+    <Price>7</Price>
+    <Count>7</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-04T14:04:48.6577947+02:00</Time>
+  </Good>
+  <Good>
+    <Name>4</Name>
+    <Price>4</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-04T14:04:48.6577947+02:00</Time>
+  </Good>
+  <Good>
+    <Name>8</Name>
+    <Price>8</Price>
+    <Count>8</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-04T21:56:43.661456+02:00</Time>
+  </Good>
+  <Good>
+    <Name>9</Name>
+    <Price>9</Price>
+    <Count>9</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-04T21:56:43.661456+02:00</Time>
+  </Good>
+  <Good>
+    <Name>10</Name>
+    <Price>10</Price>
+    <Count>10</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-04T22:21:38.1589364+02:00</Time>
+  </Good>
+  <Good>
+    <Name>12</Name>
+    <Price>12</Price>
+    <Count>12</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-04T22:27:33.8482806+02:00</Time>
+  </Good>
+  <Good>
+    <Name>13</Name>
+    <Price>13</Price>
+    <Count>13</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-04T22:32:48.278265+02:00</Time>
+  </Good>
+  <Good>
+    <Name>14</Name>
+    <Price>14</Price>
+    <Count>14</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-04T22:32:48.2792651+02:00</Time>
+  </Good>
+  <Good>
+    <Name>15</Name>
+    <Price>15</Price>
+    <Count>15</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-05T12:38:57.1765654+02:00</Time>
+  </Good>
+  <Good>
+    <Name>16</Name>
+    <Price>16</Price>
+    <Count>16</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T12:39:19.4288382+02:00</Time>
+  </Good>
+  <Good>
+    <Name>17</Name>
+    <Price>17</Price>
+    <Count>17</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-05T12:39:19.4298382+02:00</Time>
+  </Good>
+  <Good>
+    <Name>9</Name>
+    <Price>9</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-05T14:06:55.9547884+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:06:55.9547884+02:00</Time>
+  </Good>
+  <Good>
+    <Name>8</Name>
+    <Price>8</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-05T14:06:55.9547884+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>3</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:06:55.9547884+02:00</Time>
+  </Good>
+  <Good>
+    <Name>10</Name>
+    <Price>10</Price>
+    <Count>10</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-05T14:06:55.9557885+02:00</Time>
+  </Good>
+  <Good>
+    <Name>6</Name>
+    <Price>6</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:10:34.9733156+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:10:34.9733156+02:00</Time>
+  </Good>
+  <Good>
+    <Name>8</Name>
+    <Price>8</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-05T14:10:34.9733156+02:00</Time>
+  </Good>
+  <Good>
+    <Name>9</Name>
+    <Price>9</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-05T14:11:14.4275722+02:00</Time>
+  </Good>
+  <Good>
+    <Name>5</Name>
+    <Price>5</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:11:14.4275722+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>3</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-05T14:11:14.4285723+02:00</Time>
+  </Good>
+  <Good>
+    <Name>10</Name>
+    <Price>10</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-06T14:53:40.4787468+02:00</Time>
+  </Good>
+  <Good>
+    <Name>18</Name>
+    <Price>18</Price>
+    <Count>18</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-06T14:56:08.1441927+02:00</Time>
+  </Good>
+  <Good>
+    <Name>19</Name>
+    <Price>19</Price>
+    <Count>19</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-06T23:10:21.165043+02:00</Time>
+  </Good>
+  <Good>
+    <Name>20</Name>
+    <Price>20</Price>
+    <Count>20</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-06T23:10:47.5015494+02:00</Time>
+  </Good>
+  <Good>
+    <Name>21</Name>
+    <Price>21</Price>
+    <Count>21</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-06T23:31:10.9405261+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>500</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-07T22:32:13.670205+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>2</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-09T00:53:36.7248217+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>2</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-09T00:53:49.1325314+02:00</Time>
+  </Good>
+  <Good>
+    <Name>2</Name>
+    <Price>1</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-09T00:54:16.0190692+02:00</Time>
+  </Good>
+  <Good>
+    <Name>3</Name>
+    <Price>3</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-10T22:22:50.1503287+02:00</Time>
+  </Good>
+  <Good>
+    <Name>4</Name>
+    <Price>4</Price>
+    <Count>4</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-10T22:22:50.1503287+02:00</Time>
+  </Good>
+  <Good>
+    <Name>8</Name>
+    <Price>8</Price>
+    <Count>8</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-10T22:24:44.6808794+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>22</Name>
+    <Price>22</Price>
+    <Count>22</Count>
+    <Type>lol</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>15</Name>
+    <Price>16</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-15T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>12</Name>
+    <Price>12</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-15T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>17</Name>
+    <Price>17</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-15T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-17T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>30</Name>
+    <Price>30</Price>
+    <Count>30</Count>
+    <Type>lol</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-17T21:54:22.8274821+02:00</Time>
+  </Good>
+  <Good>
+    <Name>32</Name>
+    <Price>32</Price>
+    <Count>32</Count>
+    <Type>Услуги</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-17T21:57:50.2773476+02:00</Time>
+  </Good>
+  <Good>
+    <Name>12</Name>
+    <Price>25</Price>
+    <Count>3</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>15</Name>
+    <Price>15</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>12</Name>
+    <Price>12</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>10</Name>
+    <Price>10</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>1</Name>
+    <Price>1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>10</Name>
+    <Price>10</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>11</Name>
+    <Price>11</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>12</Name>
+    <Price>12</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Time>2017-03-20T00:00:00</Time>
+  </Good>
+</ArrayOfGood>

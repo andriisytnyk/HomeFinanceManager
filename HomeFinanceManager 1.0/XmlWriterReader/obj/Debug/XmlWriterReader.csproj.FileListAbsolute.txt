@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\obj\Debug\XmlWriterReader.pdb

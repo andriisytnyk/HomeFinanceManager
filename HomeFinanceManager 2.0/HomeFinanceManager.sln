@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFinanceManager", "HomeFinanceManager\HomeFinanceManager.csproj", "{6AC4DC6D-21B2-4091-B2B3-61B69E1F4F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWriterReader", "XmlWriterReader\XmlWriterReader.csproj", "{E500F260-6E0E-4A97-919B-B2A648EBF96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtWriterReader", "TxtWriterReader\TxtWriterReader.csproj", "{844B139C-8BF8-4465-9A0A-04709991C916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC4DC6D-21B2-4091-B2B3-61B69E1F4F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC4DC6D-21B2-4091-B2B3-61B69E1F4F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC4DC6D-21B2-4091-B2B3-61B69E1F4F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC4DC6D-21B2-4091-B2B3-61B69E1F4F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E500F260-6E0E-4A97-919B-B2A648EBF96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E500F260-6E0E-4A97-919B-B2A648EBF96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E500F260-6E0E-4A97-919B-B2A648EBF96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E500F260-6E0E-4A97-919B-B2A648EBF96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844B139C-8BF8-4465-9A0A-04709991C916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844B139C-8BF8-4465-9A0A-04709991C916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844B139C-8BF8-4465-9A0A-04709991C916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844B139C-8BF8-4465-9A0A-04709991C916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

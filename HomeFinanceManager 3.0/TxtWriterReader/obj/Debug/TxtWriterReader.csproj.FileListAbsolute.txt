@@ -1,0 +1,17 @@
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\TxtWriterReader\obj\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\obj\Debug\TxtWriterReader.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\obj\Debug\TxtWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+E:\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+E:\Alexandr\HomeFinanceManager 2.0\TxtWriterReader\obj\Debug\TxtWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\bin\Debug\TxtWriterReader.dll
+E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\bin\Debug\TxtWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\obj\Debug\TxtWriterReader.dll
+E:\Alexandr\HomeFinanceManager 3.0\TxtWriterReader\obj\Debug\TxtWriterReader.pdb

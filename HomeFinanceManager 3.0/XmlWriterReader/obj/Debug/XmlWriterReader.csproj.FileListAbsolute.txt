@@ -1,0 +1,17 @@
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager\XmlWriterReader\obj\Debug\XmlWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+C:\Users\Андрей\Desktop\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\obj\Debug\XmlWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+E:\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+E:\Alexandr\HomeFinanceManager 2.0\XmlWriterReader\obj\Debug\XmlWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\bin\Debug\XmlWriterReader.dll
+E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\bin\Debug\XmlWriterReader.pdb
+E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.csprojResolveAssemblyReference.cache
+E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.dll
+E:\Alexandr\HomeFinanceManager 3.0\XmlWriterReader\obj\Debug\XmlWriterReader.pdb

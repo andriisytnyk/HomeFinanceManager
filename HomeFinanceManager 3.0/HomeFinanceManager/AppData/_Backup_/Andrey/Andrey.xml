@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<ArrayOfGood xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Good>
+    <Name>Молоко</Name>
+    <Price>16.06</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Анализы</Name>
+    <Price>1070</Price>
+    <Count>1</Count>
+    <Type>Кот</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Морковка</Name>
+    <Price>4.25</Price>
+    <Count>0.684</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Пакет</Name>
+    <Price>0.95</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Яйца</Name>
+    <Price>24.52</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Луч репчатый</Name>
+    <Price>3.35</Price>
+    <Count>0.736</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Метро</Name>
+    <Price>4</Price>
+    <Count>1</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Филе куриное</Name>
+    <Price>83.58</Price>
+    <Count>0.549</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Кирпичи</Name>
+    <Price>4</Price>
+    <Count>5</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Слойка</Name>
+    <Price>18</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Булочка</Name>
+    <Price>9.99</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Макароны</Name>
+    <Price>46.41</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Соль</Name>
+    <Price>7.49</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода</Name>
+    <Price>12</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Яблоки</Name>
+    <Price>21.9</Price>
+    <Count>1.206</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Соус соевый</Name>
+    <Price>20.19</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Масло сливочное</Name>
+    <Price>34.11</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>6</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода</Name>
+    <Price>8</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода сладкая</Name>
+    <Price>9.47</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Салфетки</Name>
+    <Price>5</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Сахар</Name>
+    <Price>17.95</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Конфеты</Name>
+    <Price>99.99</Price>
+    <Count>0.344</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-13T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9965286+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Слойка</Name>
+    <Price>13.5</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9965286+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Метро</Name>
+    <Price>4</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9965286+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Автобус</Name>
+    <Price>3</Price>
+    <Count>1</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9965286+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода сладкая</Name>
+    <Price>11</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9975287+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Чипсы</Name>
+    <Price>6.5</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9975287+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Чай</Name>
+    <Price>10</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-14T23:33:28.9975287+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Печать</Name>
+    <Price>26</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-15T22:35:54.4088813+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Шоколадка</Name>
+    <Price>18</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-15T22:35:54.4088813+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Слойка</Name>
+    <Price>18</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-15T22:35:54.4088813+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-15T22:35:54.4188813+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Батончик</Name>
+    <Price>17</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-15T22:35:54.4188813+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Лампочки</Name>
+    <Price>16.5</Price>
+    <Count>6</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Стейк</Name>
+    <Price>0.578</Price>
+    <Count>116</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Жвачка</Name>
+    <Price>9.99</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Печенье</Name>
+    <Price>16.79</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Сухарики</Name>
+    <Price>6.99</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Батончик шоколадный</Name>
+    <Price>10.99</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Хлеб Шоти</Name>
+    <Price>8</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Сок</Name>
+    <Price>26.99</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Крючок</Name>
+    <Price>99.66</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Шланг д/душа</Name>
+    <Price>192.48</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>5</Price>
+    <Count>4</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Смеситель д/душа</Name>
+    <Price>212.04</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Пакет</Name>
+    <Price>2</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T00:00:00</Time>
+  </Good>
+  <Good>
+    <Name>Ремонт</Name>
+    <Price>100</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T14:58:22.6469897+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>6</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.5994797+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Кофе</Name>
+    <Price>30</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.6004798+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Пирог</Name>
+    <Price>27</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.6004798+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>4</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.6004798+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Слойка</Name>
+    <Price>20</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.6014798+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Печенье</Name>
+    <Price>17</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:00:33.6014798+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Закупка хоз.товаров</Name>
+    <Price>98</Price>
+    <Count>1</Count>
+    <Type>Хоз.товары</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:02:58.6357753+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Капли для кота</Name>
+    <Price>100</Price>
+    <Count>1</Count>
+    <Type>Кот</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:05:04.7519888+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Продукты</Name>
+    <Price>91</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:05:04.7519888+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Консультация гинеколога</Name>
+    <Price>200</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-16T15:05:04.7519888+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Сок</Name>
+    <Price>20</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-17T21:33:58.59446+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>3</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-17T21:33:58.59446+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода сладкая</Name>
+    <Price>15</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-17T21:33:58.5954601+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Конфеты</Name>
+    <Price>98.6</Price>
+    <Count>0.224</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3416898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Чизбургер</Name>
+    <Price>35</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3416898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Конфеты</Name>
+    <Price>93</Price>
+    <Count>0.264</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3416898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Картошка</Name>
+    <Price>10.98</Price>
+    <Count>1.226</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Маршрутка</Name>
+    <Price>7</Price>
+    <Count>2</Count>
+    <Type>Проезд</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Вода сладкая</Name>
+    <Price>10.44</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Пакет</Name>
+    <Price>1.8</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Сыр</Name>
+    <Price>104.52</Price>
+    <Count>0.16</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Крупа кукурузная</Name>
+    <Price>15.48</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Соус</Name>
+    <Price>14.1</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Поп-корн</Name>
+    <Price>70</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Поп-корн</Name>
+    <Price>35</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Сахар</Name>
+    <Price>20.88</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Печенье</Name>
+    <Price>6.72</Price>
+    <Count>1</Count>
+    <Type>Универ</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Соус соевый</Name>
+    <Price>16.38</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Филе куриное</Name>
+    <Price>93.98</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Сок</Name>
+    <Price>22.32</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Рис</Name>
+    <Price>31.74</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T20:56:22.3916898+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Спагетти</Name>
+    <Price>26.58</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0027799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Рис</Name>
+    <Price>43.32</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0027799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Кефир</Name>
+    <Price>20.46</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0027799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Мука овсяная</Name>
+    <Price>18.06</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0027799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Мука рисовая</Name>
+    <Price>11.76</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Шинка</Name>
+    <Price>135.6</Price>
+    <Count>0.266</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Сыр</Name>
+    <Price>197.04</Price>
+    <Count>0.374</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Чай (пакетики)</Name>
+    <Price>36.96</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Средней важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Приправа</Name>
+    <Price>10.14</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Конфеты</Name>
+    <Price>12.9</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Хлебцы</Name>
+    <Price>16.8</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Неважно</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Яйца</Name>
+    <Price>22.98</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Кетчуп</Name>
+    <Price>10.5</Price>
+    <Count>1</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Соус</Name>
+    <Price>15.78</Price>
+    <Count>2</Count>
+    <Type>Продукты</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:07:49.0127799+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Кино</Name>
+    <Price>145</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Малой важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-18T21:08:47.2978731+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Интернет</Name>
+    <Price>100</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-19T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Газ</Name>
+    <Price>713</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-19T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Водоснабжение</Name>
+    <Price>64</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-19T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>ЖКП</Name>
+    <Price>230.96</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-19T00:00:00+02:00</Time>
+  </Good>
+  <Good>
+    <Name>Электроэнергия</Name>
+    <Price>146.19</Price>
+    <Count>1</Count>
+    <Type>Услуги</Type>
+    <Importance>Первостепенной важности</Importance>
+    <Acc>Наличный счёт</Acc>
+    <Time>2017-03-19T00:00:00+02:00</Time>
+  </Good>
+</ArrayOfGood>
